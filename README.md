@@ -20,3 +20,7 @@ pytest projects/26-digit-classifier -q
 - Numerically stable softmax (max-shift) - no overflow at large logits
 - Mini-batch SGD with learning-rate decay and a per-epoch history
 - Confusion matrix to see which classes get confused
+
+## Repository
+- GitHub: https://github.com/{owner}/digit-classifier
+- Python 3.11+ · tests: `pytest` · runtime dependencies: numpy
